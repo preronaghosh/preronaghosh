@@ -11,5 +11,5 @@
 
 
 <!-- GitHub Stats -->
-![Prerona's GitHub stats](https://github-readme-stats.vercel.app/api?username=preronaghosh&show_icons=true&theme=radical)
+[Prerona's GitHub stats](https://github-readme-stats.vercel.app/api?username=preronaghosh&show_icons=true&theme=radical)
 
