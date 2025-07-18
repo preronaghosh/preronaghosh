@@ -28,4 +28,4 @@ I'm an engineer with over 4 years of experience building real-time, high-perform
 ---
 
 <!-- GitHub Stats (optional) -->
-![Prerona's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=calm)
+![Prerona's GitHub stats](https://github-readme-stats.vercel.app/api?username=preronaghosh&show_icons=true&theme=calm)
