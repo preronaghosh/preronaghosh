@@ -20,6 +20,12 @@ I'm an engineer with over 4 years of experience building real-time, high-perform
 
 ---
 
+## 🌐 Portfolio
+
+- 🌟 [Portfolio Website](https://preronaghosh.github.io)
+
+---
+
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/prerona-ghosh-341930145/)
