@@ -4,9 +4,9 @@
 
 I'm an engineer with over 4 years of experience building real-time, high-performance embedded applications in the automotive and multimedia space. My work spans across C++ development, inter-process communication, multimedia pipelines, and performance tuning on embedded platforms.
 
-🛠️ I enjoy solving deep technical problems, working on systems close to the hardware, and building things that matter. Whether it’s designing low-latency media frameworks or contributing to scalable embedded architectures, I bring a hands-on, detail-driven mindset to every project.
+🛠️ I enjoy solving deep technical problems, working on systems close to the hardware, and building things that matter.
 
-🧘‍♀️ When I’m not working, you’ll find me exploring new places, sipping coffee while reading, swimming late at night, or dreaming up my next side project. I enjoy blending creativity with technology, whether it’s planning meaningful getaways or tinkering with ideas.
+🧘‍♀️ When I’m not working, you’ll find me exploring new places, sipping coffee while reading, swimming late at night, or dreaming up my next side project.
 
 ---
 
